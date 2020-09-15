@@ -1,0 +1,342 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: transparent;
+   background-image: url(images/main_PageHeader1_bkgrnd.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: 100% 100%;
+   box-sizing: border-box;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Tabs1.ui-widget
+{
+   font-size: 1em !important;
+}
+#Tabs1
+{
+   background-color: rgba(255,255,255,0.20);
+   background-image: none;
+   border: 1px solid #DDDDDD;
+   padding: 4px 4px 4px 107px;
+   margin: 0;
+}
+#Tabs1 .ui-tabs-nav
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.0;
+}
+#Tabs1 .ui-tabs-nav li
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   margin: 0px 2px -1px 0px;
+   text-align: left;
+}
+#Tabs1 .ui-tabs-nav li a
+{
+   padding: 8px 10px 8px 10px;
+}
+#Tabs1 .ui-tabs-nav
+{
+   position: absolute;
+   left: 4px;
+   top: 4px;
+   width: 95px;
+   height: 635px;
+   padding: 4px 0px 0px 4px;
+}
+#Tabs1 .ui-tabs-nav li
+{
+   right: 1px; 
+   width: 100%;
+   border-bottom-width: 1px !important;
+   border-right: none;
+   border-radius: 6px 0px 0px 6px;
+   overflow: hidden;
+}
+#Tabs1 .ui-tabs-nav li.ui-tabs-selected, #Tabs1 .ui-tabs-nav li.ui-state-active
+{
+   border-right: 1px solid transparent;
+}
+#Tabs1 .ui-tabs-nav li a
+{
+   width: 100%;
+}
+#Tabs1, #Tabs1 .ui-corner-all, #Tabs1 .ui-corner-top
+{
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+#Tabs1, #Tabs1 .ui-corner-all, #Tabs1 .ui-corner-bottom
+{
+   border-bottom-right-radius: 6px;
+   border-bottom-left-radius: 6px;
+}
+#Tabs1 .ui-helper-reset
+{
+   line-height: 16px;
+}
+#Tabs1 .ui-widget-content
+{
+   background-color: rgba(255,255,255,0.20);
+   background-image: none;
+   border-color: #DDDDDD;
+}
+#Tabs1 .ui-widget-header
+{
+   border: 1px solid #DDDDDD;
+   background-color: #98FB98;
+   background-image: none;
+}
+#Tabs1 .ui-state-default, #Tabs1 .ui-widget-content .ui-state-default
+{
+   border-color: #C5C5C5;
+   background-color: #F6F6F6;
+   background-image: none;
+}
+#Tabs1 .ui-state-hover, #Tabs1 .ui-widget-content .ui-state-hover
+{
+   border-color: #CCCCCC;
+   background-color: #EDEDED;
+   background-image: none;
+}
+#Tabs1 .ui-state-active, #Tabs1 .ui-widget-content .ui-state-active
+{
+   border-color: #7CFC00;
+   background-color: rgba(48,211,44,0.77);
+   background-image: none;
+}
+#Tabs1 .ui-state-default a, #Tabs1 .ui-widget-content .ui-state-default a
+{
+   color: #454545;
+}
+#Tabs1 .ui-state-hover a, #Tabs1 .ui-widget-content .ui-state-hover a
+{
+   color: #2B2B2B;
+}
+#Tabs1 .ui-state-active a, #Tabs1 .ui-widget-content .ui-state-active a
+{
+   color: #FFFFFF;
+}
+#Tabs1 .ui-tabs-panel
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   padding: 0;
+}
+#Tabs1 .tabs-icon
+{
+   font-size: 16px;
+   width: 16px;
+   margin: 0px 0px 4px 0px;
+}
+#Tabs1 .description
+{
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_IconFont2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont2:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont2
+{
+   height: 38px;
+   width: 39px;
+}
+.IconFont2
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont2:before
+{
+   content: "\e8c6";
+}
+#IconFont2 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 38px;
+   line-height: 38px;
+   vertical-align: middle;
+   width: 37px;
+}
+#wb_IconFont2:hover i
+{
+   color: #FF0000;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_IconFont1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont1
+{
+   height: 45px;
+   width: 55px;
+}
+.IconFont1
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont1:before
+{
+   content: "\e853";
+}
+#IconFont1 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 45px;
+   line-height: 45px;
+   vertical-align: middle;
+   width: 44px;
+}
+#wb_IconFont1:hover i
+{
+   color: #FFFFFF;
+}
+#wb_IconFont3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont3:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont3
+{
+   height: 37px;
+   width: 55px;
+}
+.IconFont3
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont3:before
+{
+   content: "\e0be";
+}
+#IconFont3 i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 37px;
+   line-height: 37px;
+   vertical-align: middle;
+   width: 36px;
+}
+#wb_IconFont3:hover i
+{
+   color: #ADFF2F;
+}
+#PageFooter1
+{
+   background-color: #90EE90;
+   background-image: none;
+   box-sizing: border-box;
+}
